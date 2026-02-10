@@ -43,7 +43,3 @@ The frontend of the application is built with ReactJS, Material UI, React-router
 - MongoDB
 - NodeJS
 - ExpressJS
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
